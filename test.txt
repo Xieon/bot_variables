@@ -1,1 +1,3 @@
-If you see this: Successful read of public github file using github api and sysbot combined
+So now anyone with access to the file can edit the file remotely - and the bot will pull the correctly updated file/ 
+I just updated the file on Github not using the main account - so acting like I'm a staff member -edtited the file, will save, commit chages, and pull and without touching the code or having to change the bot
+If you see this: Successful read of public github file using github api and sysbot combined 
